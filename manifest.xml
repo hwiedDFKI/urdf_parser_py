@@ -1,0 +1,31 @@
+<package>
+  <description brief="urdfdom_py">
+  Python implementation of the URDF parser.
+  </description>
+  <author>Thomas Moulard</author>
+  <author>David Lu</author>
+  <author>Kelsey Hawkins</author>
+  <author>Antonio El Khoury</author>
+  <author>Eric Cousineau</author>
+  <author>Ioan Sucan/isucan@gmail.com</author>
+  <author>Jackie Kay/jacquelinekay1@gmail.com</author>
+  <maintainer>Chris Lalancette/clalancette@osrfoundation.org</maintainer>
+  <maintainer>Shane Loretz/sloretz@osrfoundation.org</maintainer>
+  <license>BSD</license>
+  <url>http://wiki.ros.org/urdfdom_py</url>
+  <depend package="catkin" />
+  <depend package="python3-yaml" />
+  <depend package="python3-lxml" />
+  <depend package="python3-mock" />
+  <keywords>
+    <keyword>kinematics</keyword>
+  </keywords>
+<use>multi project</use>
+<activity>active</activity>
+<classifiers>
+    <classifier>c++</classifier>
+    <classifier>rock</classifier>
+    <classifier>ros</classifier>
+    <classifier>ubuntu</classifier>
+  </classifiers>
+</package>
