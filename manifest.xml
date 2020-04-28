@@ -13,7 +13,7 @@
   <maintainer>Shane Loretz/sloretz@osrfoundation.org</maintainer>
   <license>BSD</license>
   <url>http://wiki.ros.org/urdfdom_py</url>
-  <depend package="catkin" />
+  <depend package="python3-catkin-pkg" />
   <depend package="python3-yaml" />
   <depend package="python3-lxml" />
   <depend package="python3-mock" />
